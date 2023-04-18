@@ -11,7 +11,7 @@ import App from "./App";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <>
-    <GoogleOAuthProvider clientId="635378438266-1a3gr0r3opcqgnq7v6shlrq5qgcubk1a.apps.googleusercontent.com">
+    <GoogleOAuthProvider clientId="260115592490-kottd8b2bd9aahffbg3in3v96rs5200h.apps.googleusercontent.com">
       <BrowserRouter>
         <Routes>
           <Route element={<App />}>
